@@ -1,6 +1,9 @@
 Hi Guys!
 This is a basic Flask + firebase authentication Demo.
 
+Watch this Video to watch the complete step-by-step walkthrough:
+https://www.youtube.com/watch?v=7NjyOx8fACA&feature=youtu.be
+
 You will need to setup a firebase account and create a n ew project.
 Clone the project, Then
 
