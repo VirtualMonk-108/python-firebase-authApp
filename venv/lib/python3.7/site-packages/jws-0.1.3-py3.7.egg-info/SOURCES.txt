@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+README.txt
+setup.cfg
+setup.py
+jws/__init__.py
+jws/algos.py
+jws/exceptions.py
+jws/header.py
+jws/tests.py
+jws/utils.py
+jws.egg-info/PKG-INFO
+jws.egg-info/SOURCES.txt
+jws.egg-info/dependency_links.txt
+jws.egg-info/top_level.txt
