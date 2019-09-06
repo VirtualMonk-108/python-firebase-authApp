@@ -8,7 +8,7 @@ You will need to setup a firebase account and create a n ew project.
 Clone the project, Then
 
 1. run the following command in your terminal:
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
 2. Open the project in your text editor and go to the app/routes.py file.
 3. Update the values in the config object with you firebase project credentials
 4. Then run the command flask run
