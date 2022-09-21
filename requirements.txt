@@ -14,7 +14,7 @@ pyasn1-modules==0.2.6
 pycryptodome>=3.4.3
 Pyrebase==3.0.27
 python-dotenv==0.10.3
-python-jwt==2.0.1
+python-jwt==3.3.4
 requests==2.20.0
 requests-toolbelt==0.7.0
 rsa==4.7
