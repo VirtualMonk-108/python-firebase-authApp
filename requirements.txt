@@ -1,5 +1,5 @@
 Click==7.0
-Flask==1.1.1
+Flask==2.3.2
 gcloud==0.17.0
 googleapis-common-protos==1.6.0
 httplib2==0.19.0
